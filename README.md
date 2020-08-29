@@ -7,4 +7,4 @@ Commands:<br/>
 ?cases `country` -  case and death count for specific country<br/>
 ?register - changes nickname in Discord channel to A.XXXX, where A is first letter of current name and X is random number<br/>
 ?register `name` - same as above, but A is first letter from parameter 'name'<br/>
-?instructions - displays instructions during self-isolation<br/>
+?instructions - displays instructions for self-isolation<br/>
