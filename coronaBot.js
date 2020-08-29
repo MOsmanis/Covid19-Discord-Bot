@@ -97,7 +97,7 @@ function makeId(length) {
     var result           = '';
     var characters       = '0123456789';
     for ( var i = 0; i < 4; i++ ) {
-       result += characters.charAt(Math.floor(Math.random() * 4));
+       result += characters.charAt(Math.floor(Math.random() * 10));
     }
     return result;
  }
