@@ -1,4 +1,4 @@
-# Corona-Discord-Bot
+# Covid19-Discord-Bot
 Bot for Coronavirus themed Discord channel <br/>
 API used for Coronavirus data - https://rapidapi.com/astsiatsko/api/coronavirus-monitor<br/>
 <br/>
